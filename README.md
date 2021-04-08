@@ -5,8 +5,8 @@ In this Excel Homework, students are asked to analyze a dataset with 4,000 past 
 * [Summary](https://github.com/adriana-icasiano/Excel-challenge#Summary)
 * [Analysis](https://github.com/adriana-icasiano/Excel-challenge#Analysis)
 ## Summary ##
-Kickstarter is a popular platform for music and film loves to discover unique and innovative films and music. Documentary and rock music campaigns have zero failure rate, while plays campaigns have a higher failure rate than success rate; therefore, plays campaigns may benefit from more targeted marketing assistance from Kickstarter.
-![Catgories]()
+Kickstarter is a popular platform for crowdfunding campagins in the arts. Campaigns related to theater, music and film are the most common. Successful is defined as it relates to the analysis is defined as at least 100% of the fundraising goal was met. Documentary and rock music campaigns have zero failure rate, while plays campaigns have a higher failure rate than success rate; therefore, plays campaigns may benefit from more targeted marketing assistance from Kickstarter.
+![Catgories](https://github.com/adriana-icasiano/Excel-Challenge/blob/cce5d3a6fa0b35be53788bcf22b3bdf1836cbe94/Chart%202.PNG)
 
 ## Analysis ##
 ## 1) Kickstarter is a popular resource for music and film lovers in the US, Canada and UK. ##
