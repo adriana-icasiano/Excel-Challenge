@@ -6,3 +6,4 @@ Kickstarter is a popular platform for music and film loves to discover unique an
 ### Kickstarter is a popular resource for music and film lovers in the US, Canada and UK. ###
 The top three most successful categories are in the Theater, Music and Film & Video categories. Within those categories, the top three most successful sub-categories are plays, documentary and rock music. 
 
+![Successful Campaign](Chart 1.PNG)
