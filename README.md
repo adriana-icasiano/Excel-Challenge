@@ -8,11 +8,11 @@ In this Excel Homework, students are asked to analyze a dataset with 4,000 past 
 * [Additional Tables and Graphs](https://github.com/adriana-icasiano/Excel-challenge#Additional-tables-graphs)
 * [Bonus Statistical](https://github.com/adriana-icasiano/Excel-challenge#Bonus-Statistical)
 ## Summary ##
-Kickstarter is a popular platform for crowdfunding campagins in the arts. Campaigns related to theater, music and film are the most common. Successful is defined as 100% or more of the fundraising goal was met. Documentary and rock music campaigns have zero failure rate, while theatrical plays campaigns have a higher failure rate than success rate. The high failture rate of theatrical plays campaigns may benefit from more targeted marketing assistance from Kickstarter.
+Kickstarter is a popular platform for crowdfunding campaigns in the arts. Campaigns related to theater plays, documentary and rock are the most common and successful. Successful is defined as "100% or more of the fundraising goal met". Although theatrical play is the most popular subcategory and raised the most dollars in total, it has a higher failure rate. The high failure rate of theatrical plays campaigns may be improved by spending on marketing tools from Kickstarter, such as spotlight.
 
 ## Analysis ##
-### 1. The majority of Kickstarter campaigns are in music and film in the US, Canada and UK.   
-The top three most successful categories are in the Theater, Music and Film & Video categories. Within those categories, the top three most successful sub-categories are theatrical plays, documentary and rock music.  Refer to  [Table 1 Successful vs Failure Percentages by Category](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
+### 1. Fundraisers in theatrical plays, documentaries and rock music industries from US, Canada and UK make up most Kickstarter campaigns.   
+The top three most successful categories are in the Theater, Music and Film & Video categories. Within those categories, the top three most successful sub-categories are theatrical plays, documentary and rock music. As such some of our analysis is focused on these sub-categories. Refer to  [Table 1 Successful vs Failure Percentages by Category](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
 ![Successful vs Failure Percentages](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
@@ -33,9 +33,9 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 
 ![Goals Vs. Percentage Pledge](https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
-### 3) Fundraisers for theatrical plays may benefit more targeted marketing assistance from Kickstarter. ### 
-While many campaigns are started in the the theatrical plays sub-category, this particular sub-category had failed campaigns than other popular sub-cateogires such as documentary and rock campaigns, which had zero canceled or failed campaigned - i.e. a success rate for those subcategories was 100%. Further, the total goal in dollars for failed campaigns is higher than successful campaigns. 100% of failed theatrical campaigns did not use the marketing feature "spotlight" and all successful campagins did use the marketing feature, which indicates the high effectiveness of the tool. Refer to [Table 5 State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
-f
+### 3) Use of spotlight or other marketing assistance from may improve failure rate. ### 
+In general, campaigns that used spotlight were successful and those who did not failed. In the theatrical plays sub-category, the total goal in dollars for failed campaigns is higher than successful campaigns. Documentary and rock campaigns, which had zero canceled or failed campaigned. 100% of failed theatrical campaigns did not use the marketing feature "spotlight" and all successful campagins did use the marketing feature, which indicates the high effectiveness of the tool. Refer to [Table 5 State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
+
 ![State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
 
 ## Data Limitation ##
