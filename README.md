@@ -23,9 +23,9 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 
    > b) The median campaign duration is 30 days. The duration of successful campaigns varied between 2 to 90 days; however, the average duration is 30 days.
    
-   > c) The median goal amount is $3,500. The goal amount ranged from $1 to $400,000. However, the median goal amount is $3,500, and the upper bound for outlier is $22,750. Tyically campaigns that failed or cancelled have relatively high dollar amounts. Refer to [Table 3 Goals Dollars by State and Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/addba171ae993d55a5a5a2f0e7a4457e7c9f5bc0/Chart%2010.PNG)
+   > c) The median goal amount is $3,500. The goal amount ranged from $1 to $400,000. However, the median goal amount is $3,500, and the upper bound for outlier is $22,750. Tyically campaigns that failed or cancelled have relatively high dollar amounts. Refer to [Table 3 Goals Dollars by State and Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/3bd6d2c56fa51723346032022a7053ae0a1301ef/Chart%2013.PNG)
    > 
-![Goals Dollars by State and Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/addba171ae993d55a5a5a2f0e7a4457e7c9f5bc0/Chart%2010.PNG)
+![Goals Dollars by State and Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/3bd6d2c56fa51723346032022a7053ae0a1301ef/Chart%2013.PNG)
 
    > d) The median percent pledged is 112% of goal. The upper bound for outlier is 189% of goal meaning it is highly unlikely for the pledge amount to go beyond this percentage.
 
