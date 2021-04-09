@@ -33,7 +33,7 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 
 ![Goals Vs. Percentage Pledge](https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
-### 3) Use of spotlight or other marketing assistance from may improve failure rate. ### 
+### 3) Use of spotlight or other marketing assistance improves failure rate. ### 
 In general, campaigns that used spotlight were successful and those who did not failed. In the theatrical plays sub-category, the total goal in dollars for failed campaigns is higher than successful campaigns. Documentary and rock campaigns, which had zero canceled or failed campaigned. 100% of failed theatrical campaigns did not use the marketing feature "spotlight" and all successful campagins did use the marketing feature, which indicates the high effectiveness of the tool. Refer to [Table 5 Spotlight vs. Success Rate](https://github.com/adriana-icasiano/Excel-Challenge/blob/f5c7c213c3c2df10bc08b543dbe57a38c954bd55/Chart%2011.PNG)
 
 ![Spotlight vs. Success Rate](https://github.com/adriana-icasiano/Excel-Challenge/blob/f5c7c213c3c2df10bc08b543dbe57a38c954bd55/Chart%2011.PNG)
