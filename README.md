@@ -17,7 +17,7 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 ![Successful vs Failure Percentages](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
 ### 2) Successful campaigns provide pointers for key campaign attributes. ###
-   > a) Campaigns launched in May are slightly more successful. While the other months have similar number of successful campaigns, the Month of May have a slightly higher success rate than other months. Refer to [Table 2 Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/ba0cbe901e4c649212892871ba9321deb16738cf/Chart%209.PNG)
+   > a) While the other months have similar number of successful campaigns, the month of May have a slightly higher success rate than other months. Refer to [Table 2 Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/ba0cbe901e4c649212892871ba9321deb16738cf/Chart%209.PNG)
 
 ![Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/ba0cbe901e4c649212892871ba9321deb16738cf/Chart%209.PNG)
 
