@@ -31,5 +31,18 @@ While many campaigns are started in the the theatrical plays sub-category, this 
 ![State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
 
 ## Data Limitation ##
+> 1.	There are very limited successful datapoints. At only ~4000 data points, it is hard to get an accurate analysis and create meaningful trendlines. 
+> 2.	The data doesn’t show if any money was spent on efforts spent on advertising or marketing help from Kickstarter such as BoostYourCampaign services or other professional Kickstarter marketing companies.
+> 3.	There are various outliers that make it challenging to analyze the data. For example, the campaigns with goal amounts of $1 to $50 are outliers, but they skew the data for successful campaigns
+
 
 ## Additional Tables and Graphs ##
+> 1.	A scatter plot of campaigns on a map
+> 2.	A table of failed campaigns and spotlight attribute to analyze the impact of the spotlight feature. Did not having it possible cause the failure? Did having it not make an impact at all?
+> 3.	Bar graphs of categories and sub-categories
+
+## Bonus Statistical ##
+> 1.	The dataset has many extremes. For example, the number of backers for successful campaigns has a minimum of 1 and a maximum of 26457. The average of this range which is 194.42 would not be representative of the population. Therefore, the median being the middle of the data would summarize more meaningfully.
+
+> 2.	The variance of successful campaigns is much higher than the failed ones. This makes sense because there is no limitation as to how many backers can back a campaign. If it is popular it can have as little as 1 or as many backers there are to support the campaign. Failed campaign is likely to have 0 to a number of backers that tends to be low; therefore, there is less variability in the smaller range. 
+
