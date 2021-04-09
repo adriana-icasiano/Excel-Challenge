@@ -34,9 +34,9 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 ![Goals Vs. Percentage Pledge](https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
 ### 3) Use of spotlight or other marketing assistance from may improve failure rate. ### 
-In general, campaigns that used spotlight were successful and those who did not failed. In the theatrical plays sub-category, the total goal in dollars for failed campaigns is higher than successful campaigns. Documentary and rock campaigns, which had zero canceled or failed campaigned. 100% of failed theatrical campaigns did not use the marketing feature "spotlight" and all successful campagins did use the marketing feature, which indicates the high effectiveness of the tool. Refer to [Table 5 State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
+In general, campaigns that used spotlight were successful and those who did not failed. In the theatrical plays sub-category, the total goal in dollars for failed campaigns is higher than successful campaigns. Documentary and rock campaigns, which had zero canceled or failed campaigned. 100% of failed theatrical campaigns did not use the marketing feature "spotlight" and all successful campagins did use the marketing feature, which indicates the high effectiveness of the tool. Refer to [Table 5 Spotlight vs. Success Rate](https://github.com/adriana-icasiano/Excel-Challenge/blob/f5c7c213c3c2df10bc08b543dbe57a38c954bd55/Chart%2011.PNG)
 
-![State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
+![Spotlight vs. Success Rate](https://github.com/adriana-icasiano/Excel-Challenge/blob/f5c7c213c3c2df10bc08b543dbe57a38c954bd55/Chart%2011.PNG)
 
 ## Data Limitation ##
 > 1.  It was difficult to find a representative median from the data because the goals varied widely. 
