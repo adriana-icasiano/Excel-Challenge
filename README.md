@@ -12,7 +12,7 @@ Kickstarter is a popular platform for crowdfunding campagins in the arts. Campai
 
 ## Analysis ##
 ### 1. The majority of Kickstarter campaigns are in music and film in the US, Canada and UK.   
-The top three most successful categories are in the Theater, Music and Film & Video categories. Within those categories, the top three most successful sub-categories are theatrical plays, documentary and rock music.  Refer to  [Table 1 Successful vs Failture Percentages by Category](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
+The top three most successful categories are in the Theater, Music and Film & Video categories. Within those categories, the top three most successful sub-categories are theatrical plays, documentary and rock music.  Refer to  [Table 1 Successful vs Failure Percentages by Category](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
 ![Successful vs Failure Percentages](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
