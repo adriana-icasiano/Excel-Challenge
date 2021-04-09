@@ -26,7 +26,9 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 ![Goals Vs. Percentage Pledge](https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
 ### 3) Fundraisers for plays may benefit more targeted marketing assistance from Kickstarter. ### 
-While many campaigns are started in the the theatrical plays sub-category, this particular sub-category had higher dollars in failed campaigns than successful campaigns. Meanwhile, other popular sub-cateogires such as documentary and rock campaigns had zero canceled or failed campaigned - i.e. a success rate of 100%.
+While many campaigns are started in the the theatrical plays sub-category, this particular sub-category had higher dollars in failed campaigns than successful campaigns. Meanwhile, other popular sub-cateogires such as documentary and rock campaigns had zero canceled or failed campaigned - i.e. a success rate of 100%. Refer to [Table 3 State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
+
+![State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
 
 ## Data Limitation ##
 
