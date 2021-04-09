@@ -14,15 +14,14 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 ![Successful vs Failure Percentages](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
 ### 2) Successful campaigns provide possible indicators for campaign attributes. ###
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) Campaigns launched in May have the highest success. While the other months have similar number of successful campaigns, the Month of May have a slightly higher success rate than other months. 
+   > a) Campaigns launched in May have the highest success. While the other months have similar number of successful campaigns, the Month of May have a slightly higher success rate than other months. 
+   > b) The median campaign duration is 30 days. The duration of successful campaigns varied between 2 to 90 days; however, the average duration is 30 days.
    
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) The median campaign duration is 30 days. The duration of successful campaigns varied between 2 to 90 days; however, the average duration is 30 days.
-   
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c)	The median goal amount is $3,500. The goal amount ranged from $1 to $400,000. However, the median goal amount is $3,500, and the upper bound for outlier is $22,750.
+   > c)	The median goal amount is $3,500. The goal amount ranged from $1 to $400,000. However, the median goal amount is $3,500, and the upper bound for outlier is $22,750.
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d) The median percent pledged is 112% of goal. The upper bound for outlier is 189% of goal meaning it is highly unlikely for the pledge amount to go beyond the said percentage.
+   > d) The median percent pledged is 112% of goal. The upper bound for outlier is 189% of goal meaning it is highly unlikely for the pledge amount to go beyond the said percentage.
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e) The lower the goal amount the higher likelihood of success except for the goal range $15,000 and 19,999. Goal set between $15,000 and 19,999 has a 47% of chance of success, 45% of failure and 8% of cancelation, meaning there is only a 2% gap in the chance of success and failure. 
+   > e) The lower the goal amount the higher likelihood of success except for the goal range $15,000 and 19,999. Goal set between $15,000 and 19,999 has a 47% of chance of success, 45% of failure and 8% of cancelation, meaning there is only a 2% gap in the chance of success and failure. 
 
 ![Goals Vs. Percentage Pledge](https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
