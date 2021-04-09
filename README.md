@@ -17,19 +17,22 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 ![Successful vs Failure Percentages](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
 ### 2) Successful campaigns provide pointers for key campaign attributes. ###
-   > a) Campaigns launched in May are slightly more successful. While the other months have similar number of successful campaigns, the Month of May have a slightly higher success rate than other months. 
+   > a) Campaigns launched in May are slightly more successful. While the other months have similar number of successful campaigns, the Month of May have a slightly higher success rate than other months. Refer to [Table 2 Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/ba0cbe901e4c649212892871ba9321deb16738cf/Chart%209.PNG)
+
+![Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/ba0cbe901e4c649212892871ba9321deb16738cf/Chart%209.PNG)
+
    > b) The median campaign duration is 30 days. The duration of successful campaigns varied between 2 to 90 days; however, the average duration is 30 days.
    
    > c) The median goal amount is $3,500. The goal amount ranged from $1 to $400,000. However, the median goal amount is $3,500, and the upper bound for outlier is $22,750.
 
    > d) The median percent pledged is 112% of goal. The upper bound for outlier is 189% of goal meaning it is highly unlikely for the pledge amount to go beyond the said percentage.
 
-   > e) The lower the goal amount the higher likelihood of success except for the goal range $15,000 and 19,999. Goal set between $15,000 and 19,999 has a 47% of chance of success, 45% of failure and 8% of cancelation, meaning there is only a 2% gap in the chance of success and failure. Refer to  [Table 2 Goal vs. Percentage Pledge]( https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
+   > e) The lower the goal amount the higher likelihood of success except for the goal range $15,000 and 19,999. Goal set between $15,000 and 19,999 has a 47% of chance of success, 45% of failure and 8% of cancelation, meaning there is only a 2% gap in the chance of success and failure. Refer to  [Table 3 Goal vs. Percentage Pledge]( https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
 ![Goals Vs. Percentage Pledge](https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
 ### 3) Fundraisers for plays may benefit more targeted marketing assistance from Kickstarter. ### 
-While many campaigns are started in the the theatrical plays sub-category, this particular sub-category had higher dollars in failed campaigns than successful campaigns. Meanwhile, other popular sub-cateogires such as documentary and rock campaigns had zero canceled or failed campaigned - i.e. a success rate of 100%. Refer to [Table 3 State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
+While many campaigns are started in the the theatrical plays sub-category, this particular sub-category had higher dollars in failed campaigns than successful campaigns. Meanwhile, other popular sub-cateogires such as documentary and rock campaigns had zero canceled or failed campaigned - i.e. a success rate of 100%. Refer to [Table 4 State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
 
 ![State of Campaigns by Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/8478346951723cd4961c65631e160ebb64acf870/Chart%208.PNG)
 
@@ -40,7 +43,7 @@ While many campaigns are started in the the theatrical plays sub-category, this 
 
 
 ## Additional Tables and Graphs ##
-> 1.	A scatter plot of campaigns on a map
+> 1.	A scatter plot of campaigns on a map so viewer can get an idea of how the usage spreadout geographically.
 > 2.	A table of failed campaigns and spotlight attribute to analyze the impact of the spotlight feature. Did not having it possible cause the failure? Did having it not make an impact at all?
 > 3.	Bar graphs of categories and sub-categories
 
