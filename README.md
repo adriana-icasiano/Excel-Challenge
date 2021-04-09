@@ -14,7 +14,7 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 ![Successful vs Failure Percentages](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ffd2485729ed910c9da63ddc2c2a7a5e59f67e0/Chart%203.PNG)
 
 ### 2) Successful campaigns provide possible indicators for campaign attributes. ###
-   #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Campaigns launched in May have the highest success. <p/>#### 
+   #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) Campaigns launched in May have the highest success. #### 
  While the other months have similar number of successful campaigns, the Month of May have a slightly higher success rate than other months. 
    #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) The median campaign duration is 30 days. #### 
  The duration of successful campaigns varied between 2 to 90 days; however, the average duration is 30 days.
