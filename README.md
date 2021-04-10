@@ -47,6 +47,7 @@ In general, all campaigns that used spotlight were successful and those who did 
 > 1.  Many data values (e.g. goals, backers and percentage pledged) varied widely from the median, so it was hard to establish a trendline or clear on those values. The dots on the scatterplots appear too close together because of the outliers. 
 > 2.	At only 4000 data points, it is hard to get an accurate analysis of the outliers. E.g. there was only one case with $400,000 goal and was successful. If there were more data available, and more outliers, I might then be able to analyze the patterns of the outliers and see if its consistent with those data points closer to the mean.
 > 3.	The data doesn’t show how much money was spent on spotlight or other advertising/ marketing help from Kickstarter such as BoostYourCampaign services or other professional Kickstarter marketing companies.
+> 4. The currencies are not all the same, so the comparison of dollar amounts is not accurate. 
 
 
 ## Additional Tables and Graphs ##
