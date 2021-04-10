@@ -8,7 +8,7 @@ In this Excel Homework, students are asked to analyze a dataset with 4,000 past 
 * [Additional Tables and Graphs](https://github.com/adriana-icasiano/Excel-challenge#Additional-tables-graphs)
 * [Bonus Statistical](https://github.com/adriana-icasiano/Excel-challenge#Bonus-Statistical)
 ## Summary ##
-Kickstarter is a popular platform for crowdfunding campaigns in the arts. Campaigns related to theater plays, documentary and rock are the most common and successful. Successful is defined as "100% or more of the fundraising goal met". Although theatrical play is the most popular subcategory and raised the most dollars in total, it has a higher failure rate. The high failure rate of theatrical plays campaigns may be improved by spending on marketing tools from Kickstarter, such as spotlight.
+Kickstarter is a popular platform for crowdfunding campaigns in the arts. Campaigns related to theater plays, documentary and rock are the most common and successful. Successful is defined as *100% or more of the fundraising goal met*. Due to the nature of the business, tghe data values are widely spread out from the mean - for example, campaign goals from $1 to $4 million. Although theatrical play is the most popular subcategory and raised the most dollars in total, it has a higher failure rate. The high failure rate of theatrical plays campaigns may be improved by spending on marketing tools from Kickstarter, such as spotlight.
 
 ## Analysis ##
 ### 1. Fundraisers in theatrical plays, documentaries and rock music industries from US, Canada and UK make up most Kickstarter campaigns.   
@@ -23,18 +23,21 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 
    > b) The median campaign duration is 30 days. The duration of successful campaigns varied between 2 to 90 days; however, the average duration is 30 days.
    
-   > c) The median goal amount is $3,500. The goal amount ranged from $1 to $400,000. However, the median goal amount is $3,500, and the upper bound for outlier is $22,750. Tyically campaigns that failed or cancelled have relatively high dollar amounts. Refer to [Table 3 Goals Dollars by State and Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/3bd6d2c56fa51723346032022a7053ae0a1301ef/Chart%2013.PNG)
+   > c) The median goal amount is $3,500. The goal amount ranged from $1 to $400,000. However, the median goal amount is $3,500, and the upper bound for outlier is $22,750. Tyically campaigns that failed or cancelled have relatively high dollar amounts. Refer to [Table 3 Goals Dollars by State and Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/3bd6d2c56fa51723346032022a7053ae0a1301ef/Chart%2013.PNG) and [Table 4 Goals Scatter Plot](https://github.com/adriana-icasiano/Excel-Challenge/blob/3a202e31f417086dffe65c9dbf2ffb0b823c8376/Chart%2016.PNG)
    > 
 ![Goals Dollars by State and Subcategory](https://github.com/adriana-icasiano/Excel-Challenge/blob/3bd6d2c56fa51723346032022a7053ae0a1301ef/Chart%2013.PNG)
 
+![Goals Scatter Plot](https://github.com/adriana-icasiano/Excel-Challenge/blob/3a202e31f417086dffe65c9dbf2ffb0b823c8376/Chart%2016.PNG)
+
+
    > d) The median percent pledged is 112% of goal. The upper bound for outlier is 189% of goal meaning it is highly unlikely for the pledge amount to go beyond this percentage.
 
-   > e) The lower the goal amount the higher likelihood of success except for the goal range $15,000 and 19,999. Goal set between $15,000 and 19,999 has a 47% of chance of success, 45% of failure and 8% of cancelation, meaning there is only a 2% gap in the chance of success and failure. Refer to  [Table 4 Goal vs. Percentage Pledge]( https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
+   > e) The lower the goal amount the higher likelihood of success except for the goal range $15,000 and 19,999. Goal set between $15,000 and 19,999 has a 47% of chance of success, 45% of failure and 8% of cancelation, meaning there is only a 2% gap in the chance of success and failure. Refer to  [Table 5 Goal vs. Percentage Pledge]( https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
 ![Goals Vs. Percentage Pledge](https://github.com/adriana-icasiano/Excel-Challenge/blob/bb782020a2b83f9cec5b96901f4eb5db9eebfaa9/Chart%207.PNG)
 
 ### 3) Use of spotlight or other marketing assistance reduce failure rate. ### 
-In general, campaigns that used spotlight were successful and those who did not failed. In the theatrical plays sub-category, the total goal in dollars for failed campaigns is higher than successful campaigns. Documentary and rock campaigns, which had zero canceled or failed campaigned. 100% of failed theatrical campaigns did not use the marketing feature "spotlight" and all successful campagins did use the marketing feature, which indicates the high effectiveness of the tool. Refer to [Table 5 Spotlight vs. Success Rate](https://github.com/adriana-icasiano/Excel-Challenge/blob/0f278756ba7ffe2c27cd8243307e296186df0cc8/Chart%2012.PNG)
+In general, campaigns that used spotlight were successful and those who did not failed. In the theatrical plays sub-category, the total goal in dollars for failed campaigns is higher than successful campaigns. Documentary and rock campaigns, which had zero canceled or failed campaigned. 100% of failed theatrical campaigns did not use the marketing feature "spotlight" and all successful campagins did use the marketing feature, which indicates the high effectiveness of the tool. Refer to [Table 6 Spotlight vs. Success Rate](https://github.com/adriana-icasiano/Excel-Challenge/blob/0f278756ba7ffe2c27cd8243307e296186df0cc8/Chart%2012.PNG)
 
 ![Spotlight vs. Success Rate](https://github.com/adriana-icasiano/Excel-Challenge/blob/0f278756ba7ffe2c27cd8243307e296186df0cc8/Chart%2012.PNG)
 
