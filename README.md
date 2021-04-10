@@ -19,7 +19,7 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 ![Campaigns by Country](https://github.com/adriana-icasiano/Excel-Challenge/blob/4f1ed6428c30f614dbf8604926278e68ede91e07/Chart%2017.PNG)
 
 ### 2) Successful campaigns provide pointers for key campaign attributes. ###
-   > a) While the other months have similar number of successful campaigns, the month of May have a slightly higher success rate than other months. Refer to [Table 3 Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%209.PNG)
+   > a) While the other months have similar number of successful campaigns, the month of May has a slightly higher success rate than other months. Refer to [Table 3 Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%209.PNG)
 
 ![Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%209.PNG)
 
@@ -47,7 +47,7 @@ In general, all campaigns that used spotlight were successful and those who did 
 > 1.  Many data values (e.g. goals, backers and percentage pledged) varied widely from the median, so it was hard to establish a trendline or clear on those values. The dots on the scatterplots appear too close together because of the outliers. 
 > 2.	At only 4000 data points, it is hard to get an accurate analysis of the outliers. E.g. there was only one case with $400,000 goal and was successful. If there were more data available, and more outliers, I might then be able to analyze the patterns of the outliers and see if its consistent with those data points closer to the mean.
 > 3.	The data doesn’t show how much money was spent on spotlight or other advertising/ marketing help from Kickstarter such as BoostYourCampaign services or other professional Kickstarter marketing companies.
-> 4. The currencies are not all the same, so the comparison of dollar amounts is not accurate. 
+> 4. The currencies are not all the same, so the comparison of dollar amounts would not be accurate. 
 
 
 ## Additional Tables and Graphs ##
@@ -56,7 +56,7 @@ In general, all campaigns that used spotlight were successful and those who did 
 > 3.	Bar graphs of categories and sub-categories
 
 ## Bonus Statistical ##
-> 1.	The dataset has many extremes. For example, the number of backers for successful campaigns has a minimum of 1 and a maximum of 26457. The average of this range which is 194.42 would not be representative of the population. Therefore, the median being the middle of the data would summarize more meaningfully. However, it seems that actually neither the mean or median is very meaningful in thise case and makes me wonder if a more advanced statistical analysis is neccessary.
+> 1.	The dataset has many extremes. For example, the number of backers for successful campaigns has a minimum of 1 and a maximum of 26457. The average of this range which is 194.42 would not be representative of the population. Therefore, the median being the middle of the data would summarize more meaningfully. However, it seems that actually neither the mean or median is very meaningful in thise case because of how widely spread the data is. 
 
 > 2.	The variance of successful campaigns is much higher than the failed ones. This makes sense because there is no limitation as to how many backers can back a campaign. If it is popular it can have as little as 1 or as many backers there are to support the campaign. Failed campaign is likely to have 0 to a number of backers that tends to be low; therefore, there is less variability in the smaller range. 
 
