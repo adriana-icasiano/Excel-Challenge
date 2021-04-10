@@ -25,9 +25,9 @@ The top three most successful categories are in the Theater, Music and Film & Vi
 
    > b) The duration of successful campaigns varied between 2 to 90 days; however, the average duration is 30 days.
    
-   > c) The goal amount for all campaigns was as high as $1 billion. However, successful campaigns goals ranged from $1 to $400,000, and the median goal amount is $3,500. The upper bound for outlier for goal is $22,750. Tyically campaigns that failed or cancelled have relatively high dollar amounts. Refer to charts for only the TOP SIX categories [Table 4 Goals Dollars by State for the Top Three Subcategories](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%2013.PNG) and [Table 5 Goals Scatter Plot of Successful Campaigns](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%2016.PNG)
+   > c) The goal amount for all campaigns was as high as $1 billion. However, successful campaigns goals ranged from $1 to $400,000, and the median goal amount is $3,500. The upper bound for outlier for goal is $22,750. Tyically campaigns that failed or cancelled have relatively high dollar amounts. Refer to charts for only the TOP SIX categories [Table 4 Goals Dollars by State for the Top Three Subcategories](https://github.com/adriana-icasiano/Excel-Challenge/blob/494bf27a152a493e538ffdb818abd70579f05cdc/Images/Chart%2013.PNGG) and [Table 5 Goals Scatter Plot of Successful Campaigns](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%2016.PNG)
    > 
-![Goals Dollars by State for the Top Three Subcategories](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%2013.PNG)
+![Goals Dollars by State for the Top Three Subcategories](https://github.com/adriana-icasiano/Excel-Challenge/blob/494bf27a152a493e538ffdb818abd70579f05cdc/Images/Chart%2013.PNG)
 
 ![Goals Scatter Plot of Sucessful Campaigns](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%2016.PNG)
 
