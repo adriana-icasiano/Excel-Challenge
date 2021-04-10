@@ -8,7 +8,7 @@ In this Excel Homework, students are asked to analyze a dataset with 4,000 past 
 * [Additional Tables and Graphs](https://github.com/adriana-icasiano/Excel-challenge#Additional-tables-graphs)
 * [Bonus Statistical](https://github.com/adriana-icasiano/Excel-challenge#Bonus-Statistical)
 ## Summary ##
-Kickstarter is a popular platform for crowdfunding campaigns in the arts. Campaigns related to theater plays, documentary and rock are the most common and successful. Successful is defined as *100% or more of the fundraising goal met*. Due to the nature of the business, tghe data values are widely spread out from the mean - for example, campaign goals from $1 to $4 million. Although theatrical play is the most popular subcategory and raised the most dollars in total, it has a higher failure rate. The high failure rate of theatrical plays campaigns may be improved by spending on marketing tools from Kickstarter, such as spotlight.
+Kickstarter is a popular platform for crowdfunding campaigns in the arts. Campaigns related to theater plays, documentary and rock are the most common and successful. Successful is defined as *100% or more of the fundraising goal met*. Due to the nature of the business, tghe data values are widely spread out from the mean - for example, campaign goals ranged from $1 to $400,000. Although theatrical play is the most popular subcategory and raised the most dollars in total, it has a higher failure rate. The high failure rate of theatrical plays campaigns may be improved by spending on marketing tools from Kickstarter, such as spotlight.
 
 ## Analysis ##
 ### 1. Fundraisers in theatrical plays, documentaries and rock music industries from US, Canada and UK make up most Kickstarter campaigns.   
