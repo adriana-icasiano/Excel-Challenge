@@ -12,11 +12,11 @@ The Data is categorized by four statuses (referred to as state in the data), suc
 
 ## Analysis ##
 ### 1. Fundraisers in theatrical plays, documentaries and rock music industries from US, Canada and UK make up most Kickstarter campaigns.   
-The top three most successful categories are in the Theater, Music and Film & Video categories. Within those categories, the top three most successful sub-categories are theatrical plays, documentary and rock music. As such, some of our analysis is focused on these sub-categories. All the campaigns spanned across 21 countries, 74% of which is based in US, 15% the UK, and $4 Canada. Refer to  [Table 1 Successful vs Failure Percentages by Category]) and [Table 2 Campaigns by Country](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%207.PNG)
+The top three most successful categories are in the Theater, Music and Film & Video categories. Within those categories, the top three most successful sub-categories are theatrical plays, documentary and rock music. As such, some of our analysis is focused on these sub-categories. All the campaigns spanned across 21 countries, 74% of which is based in US, 15% the UK, and $4 Canada. Refer to  [Table 1 Successful vs Failure Percentages by Category](https://github.com/adriana-icasiano/Excel-Challenge/blob/0880b2dfb61a6b6c926360418073a48600d99cf7/Chart%203.PNG) and [Table 2 Campaigns by Country](https://github.com/adriana-icasiano/Excel-Challenge/blob/4f1ed6428c30f614dbf8604926278e68ede91e07/Chart%2017.PNG)
 
-![Successful vs Failure Percentages]
+![Successful vs Failure Percentages](https://github.com/adriana-icasiano/Excel-Challenge/blob/0880b2dfb61a6b6c926360418073a48600d99cf7/Chart%203.PNG)
 
-![Campaigns by Country](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%207.PNG)
+![Campaigns by Country](https://github.com/adriana-icasiano/Excel-Challenge/blob/4f1ed6428c30f614dbf8604926278e68ede91e07/Chart%2017.PNG)
 
 ### 2) Successful campaigns provide pointers for key campaign attributes. ###
    > a) While the other months have similar number of successful campaigns, the month of May have a slightly higher success rate than other months. Refer to [Table 3 Successful Campaigns by Launch Month](https://github.com/adriana-icasiano/Excel-Challenge/blob/9ccca76af7011e48f7b69b15f8b2c6d87911bdae/Chart%209.PNG)
